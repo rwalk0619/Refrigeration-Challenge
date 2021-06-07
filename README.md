@@ -1,2 +1,2 @@
-# Electrical-Challenge
-This repo is about Electrical Challenge
+# Refrigeration-Challenge
+This repo is about Refrigeration-Challenge
